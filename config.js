@@ -9,7 +9,7 @@ config = {
     // ### Development **(default)**
     development: {
         // The url to use when providing links to the site, E.g. in RSS and email.
-        url: 'liamblog.azurewebsites.net',
+        url: 'liamsblog.azurewebsites.net',
 
         // Example mail config
         // Visit http://docs.ghost.org/mail for instructions
